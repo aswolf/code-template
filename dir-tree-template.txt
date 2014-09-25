@@ -1,35 +1,16 @@
 .
 ├── LICENSE
 ├── README.md
-├── analysis
-│   ├── README.md
-│   └── analysis-name
-│       ├── README.md
-│       ├── figs
-│       └── tbls
 ├── bin
-├── code
+├── code-name
 │   ├── README.md
 │   └── code-base-name
 ├── data
-│   ├── README.md
-│   ├── process
-│   │   ├── README.md
-│   │   └── process-name
-│   │       ├── README.md
-│   │       ├── data-dest -> ../../storage/data-process-name/
-│   │       └── exp-dir -> ../../../exp/
-│   └── storage
-│       ├── data-process-name
-│       └── data-static-name
+│   └── README.md
 ├── dir-tree-template.txt
-├── exp
-│   ├── README.md
-│   └── yyyy-mm-dd
-│       └── README.md
-└── writeup
-    ├── README.md
-    ├── paper-1
-    └── paper-2
+├── docs
+│   └── README.md
+└── examples
+    └── README.md
 
-20 directories, 12 files
+6 directories, 7 files
